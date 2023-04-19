@@ -21,3 +21,17 @@ Atributos:<br>
 Métodos:<br>
 -subirTime()<br>
 -rebaixarTime()<br>
+
+<h1>B&M Atividade 3</h1>
+void mostraDados() { <br>
+        System.out.println("O nome do correntista é: " + nomeDoCorrentista);<br>
+        System.out.println("O saldo é:" + saldo);<br>
+        if (contaÉEspecial){<br>
+        System.out.println("A conta é especial");<br>
+        if (saldo < 0) {<br>
+        System.out.println("Atenção: saldo negativo!");<br>
+        }<br>
+        } else {<br>
+        System.out.println("A conta é comum");<br>
+        }<br>
+        }<br>
