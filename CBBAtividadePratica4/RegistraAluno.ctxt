@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=RegistraAluno
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ RegistraAluno\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNome()
+comment10.params=
+comment10.target=double\ getMedia()
+comment11.params=
+comment11.target=int\ getQuantidadeAlunos()
+comment2.params=temp
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getEndereco()
+comment4.params=temp
+comment4.target=void\ setEndereco(java.lang.String)
+comment5.params=
+comment5.target=int\ getIdade()
+comment6.params=temp
+comment6.target=void\ setIdade(int)
+comment7.params=temp
+comment7.target=void\ setNotaMatematica(double)
+comment8.params=temp
+comment8.target=void\ setNotaPortugues(double)
+comment9.params=temp
+comment9.target=void\ setNotaGeografia(double)
+numComments=12
